@@ -1,0 +1,8 @@
+# Environment variables
+.env
+
+# Render secrets
+.env.production
+
+# API keys (extra safety)
+*.key
